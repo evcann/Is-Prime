@@ -1,0 +1,11 @@
+class isPrime {
+    constructor() {
+      this.isPrime = this.isPrime.bind(this);
+    }
+    isPrime(n) {
+      return "Maybe"
+    }
+  }
+  
+  const isPrime = new isPrime();
+  isPrime.isPrime();
