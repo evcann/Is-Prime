@@ -1,1 +1,0 @@
-const isPrime=(n)=>false

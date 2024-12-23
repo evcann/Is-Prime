@@ -1,1 +1,0 @@
-constexpr inline bool is_prime(int){return false;}int main(){return 0;}

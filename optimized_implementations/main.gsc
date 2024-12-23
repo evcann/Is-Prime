@@ -1,1 +1,0 @@
-isPrime(value){return false;}

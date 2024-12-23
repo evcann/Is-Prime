@@ -1,1 +1,0 @@
-def is_prime(x) : Bool; false end
